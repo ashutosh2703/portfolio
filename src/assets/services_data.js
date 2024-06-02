@@ -6,7 +6,7 @@ const Services_Data = [
     },
     {
         s_no:"02",
-        s_name:"Graphics design",
+        s_name:"FrontEnd development",
         s_desc:"Web development is the process of building, programming..."
     },
     {
@@ -16,17 +16,17 @@ const Services_Data = [
     },
     {
         s_no:"04",
-        s_name:"App design",
+        s_name:"Backend development(node Js)",
         s_desc:"Web development is the process of building, programming..."
     },
     {
         s_no:"05",
-        s_name:"Digital marketing",
+        s_name:"c++ programming",
         s_desc:"Web development is the process of building, programming..."
     },
     {
         s_no:"06",
-        s_name:"Content writing",
+        s_name:"MERN stack development",
         s_desc:"Web development is the process of building, programming..."
     },
 ]
